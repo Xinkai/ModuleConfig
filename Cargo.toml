@@ -1,0 +1,10 @@
+[package]
+name = "kernel_config"
+version = "0.1.0"
+authors = ["Xinkai Chen <xinkai.chen@qq.com>"]
+
+[dependencies]
+libc = "0.2.11"
+elf = "0.0.9"
+flate2 = "0.2.14"
+walkdir = "0.1.5"
